@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d6af5995.chunk.css",
+    "main.js": "/static/js/main.d9d79c38.chunk.js",
+    "main.js.map": "/static/js/main.d9d79c38.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.75538023.js",
+    "runtime-main.js.map": "/static/js/runtime-main.75538023.js.map",
+    "static/css/2.2a86faee.chunk.css": "/static/css/2.2a86faee.chunk.css",
+    "static/js/2.0d5d04e4.chunk.js": "/static/js/2.0d5d04e4.chunk.js",
+    "static/js/2.0d5d04e4.chunk.js.map": "/static/js/2.0d5d04e4.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a704347bd945efa72f1113be2e765e88.js": "/precache-manifest.a704347bd945efa72f1113be2e765e88.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.2a86faee.chunk.css.map": "/static/css/2.2a86faee.chunk.css.map",
+    "static/css/main.d6af5995.chunk.css.map": "/static/css/main.d6af5995.chunk.css.map",
+    "static/js/2.0d5d04e4.chunk.js.LICENSE.txt": "/static/js/2.0d5d04e4.chunk.js.LICENSE.txt",
+    "static/media/after_header.png": "/static/media/after_header.df0fa592.png",
+    "static/media/before_header.png": "/static/media/before_header.e454ddd2.png",
+    "static/media/detail_ads_img.png": "/static/media/detail_ads_img.a67e683b.png",
+    "static/media/display.png": "/static/media/display.20e2cb8b.png",
+    "static/media/sam-fold.jpg": "/static/media/sam-fold.d281caf4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75538023.js",
+    "static/css/2.2a86faee.chunk.css",
+    "static/js/2.0d5d04e4.chunk.js",
+    "static/css/main.d6af5995.chunk.css",
+    "static/js/main.d9d79c38.chunk.js"
+  ]
+}
