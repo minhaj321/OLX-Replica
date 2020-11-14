@@ -1,0 +1,126 @@
+.detail_detail_rows div p{
+	margin-bottom: 0px;
+	margin-left: 15px;
+}
+.SideMenu ul{
+list-style-type: none;
+text-align: left;
+margin-left: -15px;
+color:grey;
+}
+.SideMenu h6, .SideMenu h4{text-align: left;
+		font-weight: bold;
+margin-left: 10px;}
+.SideMenu h4{
+font-size: 24px
+}
+.SideMenu ul li:hover{
+	color: black;
+	cursor: pointer;
+}
+.Categories_div{
+	font-size: 15px;
+	list-style-type: none;
+	float: left;
+}
+.Categories_div li:first-child{
+font-weight: bold;}
+.menu_ul li{
+	font-size: 15px;
+	margin-left: 15px;
+}
+.menu_ul li:hover{cursor: pointer;
+}
+.Categories_div li{
+	text-align: left;
+}
+.menu_ul{
+	list-style-type: none;
+	display: inline;
+
+}
+.menu_ul li{
+	display: inline-block;
+}
+.my{
+	text-decoration: underline;
+	float: right;
+	margin-right: 25px;
+	font-weight: bold;
+	margin-top: 9px;
+	font-size: 16px;
+}
+.name{
+		margin-top: 6px;
+	float: left;
+	margin-left: 25px;
+}
+.contact_ul{
+	list-style-type: none;
+	text-align: left;
+}
+.cotact_follow{
+	margin-top: -50px;
+}
+.contact_b{
+float: left;
+margin-left: 37px;
+}
+.footer_first_span{
+	float: left;
+margin-top:15px;
+margin-left: 10px;
+font-size: 13px;
+color:white;
+}
+.footer_second_span{
+	float: right;
+margin-top:15px;
+margin-right: 10px;
+font-size: 13px;
+color:white;
+}
+
+
+.header_select option{
+	padding: 20px;
+}
+
+.header_select{
+margin-left: 10px;
+ outline: 2px solid black;
+	width: 250px;
+	height: 45px;
+
+}
+.header_search{
+	margin-left: 10px;
+	width: 700px;
+	height: 48px;
+}
+.header_search:focus{
+	border:lightblue 7px solid;
+}
+.header_login{
+text-decoration: underline;
+font-weight: bold;
+}
+.header_Sell{
+align-items: center;
+	background: #e7e8e9;
+	border-radius: 40px;
+	display: flex;
+	justify-content: center;
+	height: 100%;
+	width: 100%;
+
+	
+	
+}
+.sell_btn{
+	background-image: linear-gradient(to right, yellow,blue,skyblue);
+	border-radius: 40px;
+	height: 45px;
+	padding: 3px;
+	width: 100px;
+}
